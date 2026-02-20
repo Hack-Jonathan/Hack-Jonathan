@@ -105,6 +105,3 @@
   <i>"Code is read more often than it is written. Make it count."</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hack-Jonathan&color=blueviolet&style=for-the-badge" />
-</p>
